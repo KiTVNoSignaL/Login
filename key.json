@@ -23,12 +23,11 @@
   },
   "Keys": {
     "Admin": {
-      "hwid": "B8763C974CAA6DE6",
+      "hwid": "4B358D0138C84234",
       "expireDate": "2026-06-03",
       "isBanned": false,
       "banReason": "Test Key",
-      "userRank": "Supreme User",
-      "freezeAccount": false
+      "userRank": "Supreme User"
     },
     "tes": {
       "hwid": "B8763C974CAA6DE6",
